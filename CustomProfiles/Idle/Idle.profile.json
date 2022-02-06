@@ -1,0 +1,253 @@
+{
+  "Name": "Idle",
+  "AlbumArtPopup": {
+    "IsVisible": false,
+    "Width": 250.0,
+    "Height": 250.0,
+    "XPosition": -110.0,
+    "Margin": 4.0
+  },
+  "AlbumArt": {
+    "PlaceholderPath": "",
+    "IsVisible": true,
+    "Width": 30.0,
+    "Height": 30.0,
+    "XPosition": 0.0,
+    "YPosition": 0.0,
+    "Anchor": 9
+  },
+  "GeneralSettings": {
+    "Width": 40.0,
+    "Height": 30.0,
+    "BackgroundColor": "#00FFFFFF"
+  },
+  "CustomLabels": [],
+  "NextButton": {
+    "Content": {
+      "ContentType": 1,
+      "ImagePath": null,
+      "HoveredImagePath": null,
+      "ClickedImagePath": null,
+      "FontFamily": "Segoe MDL2 Assets",
+      "Text": "",
+      "TextColor": "#FFFFFFFF",
+      "HoveredTextColor": "#FFFFFFFF",
+      "ClickedTextColor": "#FFFFFFFF"
+    },
+    "BackgroundColor": "#00FFFFFF",
+    "HoveredBackgroundColor": "#19FFFFFF",
+    "ClickedBackgroundColor": "#0FFFFFFF",
+    "IsVisible": false,
+    "Width": 40.0,
+    "Height": 15.0,
+    "XPosition": 410.0,
+    "YPosition": 3.0,
+    "Anchor": 9
+  },
+  "PreviousButton": {
+    "Content": {
+      "ContentType": 1,
+      "ImagePath": null,
+      "HoveredImagePath": null,
+      "ClickedImagePath": null,
+      "FontFamily": "Segoe MDL2 Assets",
+      "Text": "",
+      "TextColor": "#FFFFFFFF",
+      "HoveredTextColor": "#FFFFFFFF",
+      "ClickedTextColor": "#FFFFFFFF"
+    },
+    "BackgroundColor": "#00FFFFFF",
+    "HoveredBackgroundColor": "#19FFFFFF",
+    "ClickedBackgroundColor": "#0FFFFFFF",
+    "IsVisible": false,
+    "Width": 40.0,
+    "Height": 15.0,
+    "XPosition": 330.0,
+    "YPosition": 3.0,
+    "Anchor": 9
+  },
+  "PlayPauseButton": {
+    "PlayContent": {
+      "ContentType": 1,
+      "ImagePath": null,
+      "HoveredImagePath": null,
+      "ClickedImagePath": null,
+      "FontFamily": "Segoe MDL2 Assets",
+      "Text": "",
+      "TextColor": "#FFFFFFFF",
+      "HoveredTextColor": "#FFFFFFFF",
+      "ClickedTextColor": "#FFFFFFFF"
+    },
+    "PauseContent": {
+      "ContentType": 1,
+      "ImagePath": null,
+      "HoveredImagePath": null,
+      "ClickedImagePath": null,
+      "FontFamily": "Segoe MDL2 Assets",
+      "Text": "",
+      "TextColor": "#FFFFFFFF",
+      "HoveredTextColor": "#FFFFFFFF",
+      "ClickedTextColor": "#FFFFFFFF"
+    },
+    "BackgroundColor": "#00FFFFFF",
+    "HoveredBackgroundColor": "#19FFFFFF",
+    "ClickedBackgroundColor": "#0FFFFFFF",
+    "IsVisible": false,
+    "Width": 40.0,
+    "Height": 15.0,
+    "XPosition": 370.0,
+    "YPosition": 3.0,
+    "Anchor": 9
+  },
+  "RepeatModeButton": {
+    "RepeatOffContent": {
+      "ContentType": 1,
+      "ImagePath": null,
+      "HoveredImagePath": null,
+      "ClickedImagePath": null,
+      "FontFamily": "Segoe MDL2 Assets",
+      "Text": "",
+      "TextColor": "#FF696969",
+      "HoveredTextColor": "#FFFFFFFF",
+      "ClickedTextColor": "#FF808080"
+    },
+    "RepeatContextContent": {
+      "ContentType": 1,
+      "ImagePath": null,
+      "HoveredImagePath": null,
+      "ClickedImagePath": null,
+      "FontFamily": "Segoe MDL2 Assets",
+      "Text": "",
+      "TextColor": "#FF1E90FF",
+      "HoveredTextColor": "#FF6495ED",
+      "ClickedTextColor": "#FF4169E1"
+    },
+    "RepeatTrackContent": {
+      "ContentType": 1,
+      "ImagePath": null,
+      "HoveredImagePath": null,
+      "ClickedImagePath": null,
+      "FontFamily": "Segoe MDL2 Assets",
+      "Text": "",
+      "TextColor": "#FF1E90FF",
+      "HoveredTextColor": "#FF6495ED",
+      "ClickedTextColor": "#FF4169E1"
+    },
+    "BackgroundColor": "#00FFFFFF",
+    "HoveredBackgroundColor": "#19FFFFFF",
+    "ClickedBackgroundColor": "#0FFFFFFF",
+    "IsVisible": false,
+    "Width": 40.0,
+    "Height": 15.0,
+    "XPosition": 450.0,
+    "YPosition": 3.0,
+    "Anchor": 9
+  },
+  "ShuffleModeButton": {
+    "ShuffleOffContent": {
+      "ContentType": 1,
+      "ImagePath": null,
+      "HoveredImagePath": null,
+      "ClickedImagePath": null,
+      "FontFamily": "Segoe MDL2 Assets",
+      "Text": "",
+      "TextColor": "#FF696969",
+      "HoveredTextColor": "#FFFFFFFF",
+      "ClickedTextColor": "#FF808080"
+    },
+    "ShuffleOnContent": {
+      "ContentType": 1,
+      "ImagePath": null,
+      "HoveredImagePath": null,
+      "ClickedImagePath": null,
+      "FontFamily": "Segoe MDL2 Assets",
+      "Text": "",
+      "TextColor": "#FF1E90FF",
+      "HoveredTextColor": "#FF6495ED",
+      "ClickedTextColor": "#FF4169E1"
+    },
+    "BackgroundColor": "#00FFFFFF",
+    "HoveredBackgroundColor": "#19FFFFFF",
+    "ClickedBackgroundColor": "#0FFFFFFF",
+    "IsVisible": false,
+    "Width": 40.0,
+    "Height": 15.0,
+    "XPosition": 290.0,
+    "YPosition": 3.0,
+    "Anchor": 9
+  },
+  "VolumeButton": {
+    "PopupWidth": 190.0,
+    "PopupHeight": 36.0,
+    "XPopupOffset": 24.5,
+    "YPopupOffset": -11.0,
+    "IsHorizontal": false,
+    "NoVolumeContent": {
+      "ContentType": 1,
+      "ImagePath": null,
+      "HoveredImagePath": null,
+      "ClickedImagePath": null,
+      "FontFamily": "Segoe MDL2 Assets",
+      "Text": "",
+      "TextColor": "#FFFFFFFF",
+      "HoveredTextColor": "#FFFFFFFF",
+      "ClickedTextColor": "#FFFFFFFF"
+    },
+    "LowVolumeContent": {
+      "ContentType": 1,
+      "ImagePath": null,
+      "HoveredImagePath": null,
+      "ClickedImagePath": null,
+      "FontFamily": "Segoe MDL2 Assets",
+      "Text": "",
+      "TextColor": "#FFFFFFFF",
+      "HoveredTextColor": "#FFFFFFFF",
+      "ClickedTextColor": "#FFFFFFFF"
+    },
+    "MidVolumeContent": {
+      "ContentType": 1,
+      "ImagePath": null,
+      "HoveredImagePath": null,
+      "ClickedImagePath": null,
+      "FontFamily": "Segoe MDL2 Assets",
+      "Text": "",
+      "TextColor": "#FFFFFFFF",
+      "HoveredTextColor": "#FFFFFFFF",
+      "ClickedTextColor": "#FFFFFFFF"
+    },
+    "HighVolumeContent": {
+      "ContentType": 1,
+      "ImagePath": null,
+      "HoveredImagePath": null,
+      "ClickedImagePath": null,
+      "FontFamily": "Segoe MDL2 Assets",
+      "Text": "",
+      "TextColor": "#FFFFFFFF",
+      "HoveredTextColor": "#FFFFFFFF",
+      "ClickedTextColor": "#FFFFFFFF"
+    },
+    "VolumeBarForegroundColor": "#FF1E90FF",
+    "VolumeBarBackgroundColor": "#FF696969",
+    "PopupBackgroundColor": "#FFA9A9A9",
+    "BackgroundColor": "#00FFFFFF",
+    "HoveredBackgroundColor": "#19FFFFFF",
+    "ClickedBackgroundColor": "#0FFFFFFF",
+    "IsVisible": false,
+    "Width": 18.0,
+    "Height": 18.0,
+    "XPosition": 251.0,
+    "YPosition": 6.0,
+    "Anchor": 9
+  },
+  "ProgressBar": {
+    "ForegroundColor": "#FF1E90FF",
+    "BackgroundColor": "#FF696969",
+    "HoverColor": "#FF00BFFF",
+    "IsVisible": false,
+    "Width": 130.0,
+    "Height": 4.0,
+    "XPosition": 325.0,
+    "YPosition": 22.0,
+    "Anchor": 9
+  }
+}
