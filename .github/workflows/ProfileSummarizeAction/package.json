@@ -1,0 +1,16 @@
+{
+  "name": "profilesummarizeaction",
+  "version": "0.1.0",
+  "description": "GitHub action to get all the existing profiles and summarize them into one file.",
+  "main": "index.js",
+  "repository": "https://github.com/AudioBand/CommunityProfiles",
+  "author": "jogius",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "@actions/github": "^5.0.0"
+  }
+}
