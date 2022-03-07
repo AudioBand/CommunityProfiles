@@ -1,0 +1,51 @@
+name: ProfileSummarizeAction
+
+on:
+  push:
+    # Run on every push to the master branch
+    branches: [ master ]
+    # Ignore the auto-commits on 'ProfileSummary.json'
+    paths-ignore: ProfilesSummary.json
+
+  # Allow to run this workflow manually
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    # Checkout repository
+    - uses: actions/checkout@v2
+    # Initialize NodeJS environment in workflow folder
+    - name: Use Node.js 16
+      uses: actions/setup-node@v2
+      with:
+        node-version: 16
+        cache: 'npm'
+        cache-dependency-path:  ./.github/workflows/ProfileSummarizeAction
+    # Install NodeJS dependencies
+    - name: Install dependencies
+      working-directory: ./.github/workflows/ProfileSummarizeAction
+      run: npm ci
+    - name: Run script
+      working-directory: ./.github/workflows/ProfileSummarizeAction
+      run: npm run start
+      # Pass GitHub token to script via environment variables
+      env:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    # Save 'ProfileSummary.json' to an artifact
+    - name: Save artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: ProfilesSummary.json
+        path: ./.github/workflows/ProfileSummarizeAction/ProfilesSummary.json
+    # Move 'ProfilesSummary.json' and overwrite version in repository
+    - name: Update ProfilesSummary.json in repository
+      run: mv -f ./.github/workflows/ProfileSummarizeAction/ProfilesSummary.json .
+    # Commit and push changes to repository
+    - name: Update file in repository
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: (Auto Commit) Update 'ProfilesSummary.json'
