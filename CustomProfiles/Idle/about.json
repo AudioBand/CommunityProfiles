@@ -1,4 +1,5 @@
 {
     "Description": "The standard idle profile, very small and optimally used together with the automatic idle profile switch functionality.",
-    "Authors": "svr333"
+    "Authors": "svr333",
+    "Version": "v1.0.0"
 }
