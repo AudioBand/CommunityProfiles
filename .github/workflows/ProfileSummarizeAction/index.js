@@ -22,12 +22,12 @@ const fs = require('fs');
     };
   
     // Get content of the entire 'CommunityProfiles' repository
-    const customProfilesRepoContent = await getContent("CustomProfiles");
+    const profilesRepoContent = await getContent("Profiles");
 
     const profiles = [];
   
     // Loop through available profiles synchronously
-    await Promise.all(customProfilesRepoContent.data.map(async (profile) => {
+    await Promise.all(profilesRepoContent.data.map(async (profile) => {
       // Return if element is not a directory
       if (profile.type != 'dir') return;
 
