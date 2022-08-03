@@ -46,15 +46,15 @@ const fs = require('fs');
       const aboutFile = JSON.parse(Buffer.from(aboutFileContent.data.content, aboutFileContent.data.encoding).toString());
 
       // Try finding 'xxx.profile.json' download url
-      const profile = (profileContent.data.find((file) => file.name.endsWith('.profile.json')));
-      const profileUrl = profile?.download_url;
+      const profileJsonContent = (profileContent.data.find((file) => file.name.endsWith('.profile.json')));
+      const profileUrl = profileJsonContent?.download_url;
       if (profileUrl == undefined) {
         console.log(`Profile '${profile.name}' has no 'xxx.profile.json' file. Continuing with next profile...`);
         return;
       }
 
       // Get the profile content so we can get the version later.
-      const actualProfile = await getContent(profile.path);
+      const actualProfile = await getContent(profileJsonContent.path);
       const profileFileContent = JSON.parse(Buffer.from(actualProfile.data.content, actualProfile.data.encoding).toString());
 
       // Try finding image url
