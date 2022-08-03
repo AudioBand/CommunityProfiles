@@ -56,13 +56,11 @@ const fs = require('fs');
       const imageUrl = (profileContent.data.find((file) => file.name.endsWith('.jpg') || file.name.endsWith('.png')))?.download_url;
       if (imageUrl == undefined) {
         console.log(`Profile '${profile.name}' has no image ('.jpg' or '.png') file. Ignoring...`);
-        imageUrl = "";
       }
 
       const assetsUrl = (profileContent.data.find((file) => file.name == "Assets"))?.path;
       if (assetsUrl == undefined) {
         console.log(`Profile '${profile.name}' has no extra assets. Ignoring...`);
-        assetsUrl = "";
       }
       
 			// Add profile information to summary
@@ -73,7 +71,7 @@ const fs = require('fs');
         version: aboutFile.Version,
         imageUrl: imageUrl,
         profileUrl: profileUrl,
-        assetsUrl: assetsUrl,
+        assetsUrl: assetsUrl == undefined ? "" : assetsUrl,
       });
     }));
 
