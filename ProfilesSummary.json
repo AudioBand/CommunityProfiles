@@ -1,14 +1,5 @@
 [
   {
-    "name": "Default (Compact)",
-    "description": "A compacted version of the Default profile, for those who like functionality but don't want to occupy a lot of space.",
-    "authors": "svr333",
-    "version": "v1.0.0",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default%20(Compact)/Default%20(Compact).png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default%20(Compact)/Default%20(Compact).profile.json",
-    "assetsUrl": ""
-  },
-  {
     "name": "Default",
     "description": "The default profile, with full functionality. Occupies a wide space.",
     "authors": "Dsafa, svr333",
@@ -16,6 +7,14 @@
     "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default/Default.png",
     "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default/Default.profile.json",
     "assetsUrl": ""
+  },
+  {
+    "name": "Test",
+    "description": "Test profile.",
+    "authors": "svr333",
+    "version": "v0.0.1",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Test/Test.profile.json",
+    "assetsUrl": "Profiles/Test/Assets"
   },
   {
     "name": "Compact",
@@ -33,6 +32,15 @@
     "version": "v1.0.0",
     "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Ultracompact/Ultracompact.png",
     "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Ultracompact/Ultracompact.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "Default (Compact)",
+    "description": "A compacted version of the Default profile, for those who like functionality but don't want to occupy a lot of space.",
+    "authors": "svr333",
+    "version": "v1.0.0",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default%20(Compact)/Default%20(Compact).png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default%20(Compact)/Default%20(Compact).profile.json",
     "assetsUrl": ""
   },
   {
