@@ -46,11 +46,16 @@ const fs = require('fs');
       const aboutFile = JSON.parse(Buffer.from(aboutFileContent.data.content, aboutFileContent.data.encoding).toString());
 
       // Try finding 'xxx.profile.json' download url
-      const profileUrl = (profileContent.data.find((file) => file.name.endsWith('.profile.json')))?.download_url;
+      const profile = (profileContent.data.find((file) => file.name.endsWith('.profile.json')));
+      const profileUrl = profile?.download_url;
       if (profileUrl == undefined) {
         console.log(`Profile '${profile.name}' has no 'xxx.profile.json' file. Continuing with next profile...`);
         return;
       }
+
+      // Get the profile content so we can get the version later.
+      const actualProfile = await getContent(profile.path);
+      const profileFileContent = JSON.parse(Buffer.from(actualProfile.data.content, actualProfile.data.encoding).toString());
 
       // Try finding image url
       const imageUrl = (profileContent.data.find((file) => file.name.endsWith('.jpg') || file.name.endsWith('.png')))?.download_url;
@@ -58,6 +63,7 @@ const fs = require('fs');
         console.log(`Profile '${profile.name}' has no image ('.jpg' or '.png') file. Ignoring...`);
       }
 
+      // Try finding the Assets folder
       const assetsUrl = (profileContent.data.find((file) => file.name == "Assets"))?.path;
       if (assetsUrl == undefined) {
         console.log(`Profile '${profile.name}' has no extra assets. Ignoring...`);
@@ -68,7 +74,7 @@ const fs = require('fs');
         name: profile.name,
         description: aboutFile.Description,
         authors: aboutFile.Authors,
-        version: aboutFile.Version,
+        version: profileFileContent.Version,
         imageUrl: imageUrl,
         profileUrl: profileUrl,
         assetsUrl: assetsUrl == undefined ? "" : assetsUrl,
