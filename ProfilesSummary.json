@@ -9,6 +9,24 @@
     "assetsUrl": ""
   },
   {
+    "name": "Idle",
+    "description": "The standard idle profile, very small and optimally used together with the automatic idle profile switch functionality.",
+    "authors": "svr333",
+    "version": "v1.0.0",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Idle/Idle.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Idle/Idle.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "No Controls",
+    "description": "The standard Compact profile, perfect for minimal space usage.",
+    "authors": "svr333",
+    "version": "v1.0.0",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/No%20Controls/No%20Controls.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/No%20Controls/No%20Controls.profile.json",
+    "assetsUrl": ""
+  },
+  {
     "name": "Ultracompact",
     "description": "This will really stay out of your way. Only 30x80 pixels, containing all the essentials.",
     "authors": "diggoran",
@@ -33,24 +51,6 @@
     "version": "v1.0.0",
     "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default/Default.png",
     "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default/Default.profile.json",
-    "assetsUrl": ""
-  },
-  {
-    "name": "Idle",
-    "description": "The standard idle profile, very small and optimally used together with the automatic idle profile switch functionality.",
-    "authors": "svr333",
-    "version": "v1.0.0",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Idle/Idle.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Idle/Idle.profile.json",
-    "assetsUrl": ""
-  },
-  {
-    "name": "No Controls",
-    "description": "The standard Compact profile, perfect for minimal space usage.",
-    "authors": "svr333",
-    "version": "v1.0.0",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/No%20Controls/No%20Controls.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/No%20Controls/No%20Controls.profile.json",
     "assetsUrl": ""
   }
 ]
