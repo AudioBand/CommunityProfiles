@@ -54,12 +54,16 @@ const fs = require('fs');
 
       // Try finding image url
       const imageUrl = (profileContent.data.find((file) => file.name.endsWith('.jpg') || file.name.endsWith('.png')))?.download_url;
-      if (imageUrl == undefined)
+      if (imageUrl == undefined) {
         console.log(`Profile '${profile.name}' has no image ('.jpg' or '.png') file. Ignoring...`);
+        imageUrl = "";
+      }
 
       const assetsUrl = (profileContent.data.find((file) => file.name == "Assets"))?.path;
-      if (assetsUrl == undefined)
+      if (assetsUrl == undefined) {
         console.log(`Profile '${profile.name}' has no extra assets. Ignoring...`);
+        assetsUrl = "";
+      }
       
 			// Add profile information to summary
       profiles.push({
