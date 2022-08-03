@@ -8,12 +8,12 @@
     "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default/Default.profile.json"
   },
   {
-    "name": "No Controls",
+    "name": "Compact",
     "description": "The standard Compact profile, perfect for minimal space usage.",
     "authors": "svr333",
     "version": "v1.0.0",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/No%20Controls/No%20Controls.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/No%20Controls/No%20Controls.profile.json"
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact/Compact.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact/Compact.profile.json"
   },
   {
     "name": "Ultracompact",
@@ -24,12 +24,12 @@
     "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Ultracompact/Ultracompact.profile.json"
   },
   {
-    "name": "Compact",
+    "name": "No Controls",
     "description": "The standard Compact profile, perfect for minimal space usage.",
     "authors": "svr333",
     "version": "v1.0.0",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact/Compact.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact/Compact.profile.json"
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/No%20Controls/No%20Controls.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/No%20Controls/No%20Controls.profile.json"
   },
   {
     "name": "Default (Compact)",
