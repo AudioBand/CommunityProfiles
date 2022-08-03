@@ -69,7 +69,7 @@ const fs = require('fs');
         console.log(`Profile '${profile.name}' has no extra assets. Ignoring...`);
       }
       
-			// Add profile information to summary
+      // Add profile information to summary
       profiles.push({
         name: profile.name,
         description: aboutFile.Description,
