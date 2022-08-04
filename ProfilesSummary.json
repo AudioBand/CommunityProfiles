@@ -1,29 +1,11 @@
 [
   {
-    "name": "Default",
-    "description": "The default profile, with full functionality. Occupies a wide space.",
-    "authors": "Dsafa, svr333",
-    "version": "v1.0.0",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default/Default.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default/Default.profile.json",
-    "assetsUrl": ""
-  },
-  {
     "name": "Test",
     "description": "Test profile.",
     "authors": "svr333",
     "version": "v0.0.1",
     "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Test/Test.profile.json",
     "assetsUrl": "Profiles/Test/Assets"
-  },
-  {
-    "name": "Compact",
-    "description": "The standard Compact profile, perfect for minimal space usage.",
-    "authors": "svr333",
-    "version": "v1.0.0",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact/Compact.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact/Compact.profile.json",
-    "assetsUrl": ""
   },
   {
     "name": "Ultracompact",
@@ -44,6 +26,24 @@
     "assetsUrl": ""
   },
   {
+    "name": "Idle",
+    "description": "The standard idle profile, very small and optimally used together with the automatic idle profile switch functionality.",
+    "authors": "svr333",
+    "version": "v1.0.0",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Idle/Idle.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Idle/Idle.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "Compact",
+    "description": "The standard Compact profile, perfect for minimal space usage.",
+    "authors": "svr333",
+    "version": "v1.0.0",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact/Compact.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact/Compact.profile.json",
+    "assetsUrl": ""
+  },
+  {
     "name": "No Controls",
     "description": "The standard Compact profile, perfect for minimal space usage.",
     "authors": "svr333",
@@ -53,12 +53,12 @@
     "assetsUrl": ""
   },
   {
-    "name": "Idle",
-    "description": "The standard idle profile, very small and optimally used together with the automatic idle profile switch functionality.",
-    "authors": "svr333",
+    "name": "Default",
+    "description": "The default profile, with full functionality. Occupies a wide space.",
+    "authors": "Dsafa, svr333",
     "version": "v1.0.0",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Idle/Idle.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Idle/Idle.profile.json",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default/Default.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default/Default.profile.json",
     "assetsUrl": ""
   }
 ]
