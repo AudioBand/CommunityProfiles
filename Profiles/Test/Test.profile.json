@@ -143,7 +143,7 @@
     "BackgroundColor": "#00FFFFFF",
     "HoveredBackgroundColor": "#19FFFFFF",
     "ClickedBackgroundColor": "#0FFFFFFF",
-    "IsVisible": true,
+    "IsVisible": false,
     "Width": 40.0,
     "Height": 15.0,
     "XPosition": 330.0,
