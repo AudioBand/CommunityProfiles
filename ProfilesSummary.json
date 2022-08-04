@@ -1,29 +1,11 @@
 [
   {
-    "name": "No Controls",
-    "description": "The standard Compact profile, perfect for minimal space usage.",
-    "authors": "svr333",
-    "version": "v1.0.0",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/No%20Controls/No%20Controls.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/No%20Controls/No%20Controls.profile.json",
-    "assetsUrl": ""
-  },
-  {
     "name": "Ultracompact",
     "description": "This will really stay out of your way. Only 30x80 pixels, containing all the essentials.",
     "authors": "diggoran",
     "version": "v1.0.0",
     "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Ultracompact/Ultracompact.png",
     "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Ultracompact/Ultracompact.profile.json",
-    "assetsUrl": ""
-  },
-  {
-    "name": "Compact",
-    "description": "The standard Compact profile, perfect for minimal space usage.",
-    "authors": "svr333",
-    "version": "v1.0.0",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact/Compact.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact/Compact.profile.json",
     "assetsUrl": ""
   },
   {
@@ -36,12 +18,12 @@
     "assetsUrl": ""
   },
   {
-    "name": "Default (Compact)",
-    "description": "A compacted version of the Default profile, for those who like functionality but don't want to occupy a lot of space.",
+    "name": "Compact",
+    "description": "The standard Compact profile, perfect for minimal space usage.",
     "authors": "svr333",
     "version": "v1.0.0",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default%20(Compact)/Default%20(Compact).png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default%20(Compact)/Default%20(Compact).profile.json",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact/Compact.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact/Compact.profile.json",
     "assetsUrl": ""
   },
   {
@@ -54,11 +36,21 @@
     "assetsUrl": ""
   },
   {
-    "name": "Test",
-    "description": "Test profile.",
+    "name": "No Controls",
+    "description": "The standard Compact profile, perfect for minimal space usage.",
     "authors": "svr333",
-    "version": "v0.0.3",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Test/Test.profile.json",
-    "assetsUrl": "Profiles/Test/Assets"
+    "version": "v1.0.0",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/No%20Controls/No%20Controls.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/No%20Controls/No%20Controls.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "Default (Compact)",
+    "description": "A compacted version of the Default profile, for those who like functionality but don't want to occupy a lot of space.",
+    "authors": "svr333",
+    "version": "v1.0.0",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default%20(Compact)/Default%20(Compact).png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default%20(Compact)/Default%20(Compact).profile.json",
+    "assetsUrl": ""
   }
 ]
