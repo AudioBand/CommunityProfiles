@@ -81,10 +81,6 @@ const fs = require('fs');
       });
     }));
 
-    profiles.sort(function (a, b) {
-      return a.length - b.length;
-    });
-
     // Write to summarized file
     fs.writeFile('./ProfilesSummary.json', JSON.stringify(profiles, undefined, 2), (err) => {
       if (err) {
