@@ -1,6 +1,6 @@
 # CommunityProfiles
 This repository houses all the profiles uploaded by CommunityMembers, feel free to add yours to the list!
-If you have any questions, you can always reach out for help on our [Discord Server](https://discord.gg/yWDHdH2za5).
+If you have any questions, you can always reach out for help on our [Discord Server](https://discord.gg/yWDHdH2za5)!
 
 # Adding your profile
 If you have no knowledge of Git and don't want to bother learning, feel free to contact me to upload it for you.  
