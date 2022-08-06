@@ -1,5 +1,5 @@
 {
-  "Version": "v1.0.0",
+  "Version": "v1.0.1",
   "Name": "Compact",
   "AlbumArtPopup": {
     "IsVisible": true,
@@ -56,6 +56,7 @@
       "HoveredTextColor": "#FFFFFFFF",
       "ClickedTextColor": "#FFFFFFFF"
     },
+    "CornerRadius": 10,
     "BackgroundColor": "#00FFFFFF",
     "HoveredBackgroundColor": "#19FFFFFF",
     "ClickedBackgroundColor": "#0FFFFFFF",
@@ -78,6 +79,7 @@
       "HoveredTextColor": "#FFFFFFFF",
       "ClickedTextColor": "#FFFFFFFF"
     },
+    "CornerRadius": 10,
     "BackgroundColor": "#00FFFFFF",
     "HoveredBackgroundColor": "#19FFFFFF",
     "ClickedBackgroundColor": "#0FFFFFFF",
@@ -111,6 +113,7 @@
       "HoveredTextColor": "#FFFFFFFF",
       "ClickedTextColor": "#FFFFFFFF"
     },
+    "CornerRadius": 10,
     "BackgroundColor": "#00FFFFFF",
     "HoveredBackgroundColor": "#19FFFFFF",
     "ClickedBackgroundColor": "#0FFFFFFF",
@@ -155,6 +158,7 @@
       "HoveredTextColor": "#FF6495ED",
       "ClickedTextColor": "#FF4169E1"
     },
+    "CornerRadius": 10,
     "BackgroundColor": "#00FFFFFF",
     "HoveredBackgroundColor": "#19FFFFFF",
     "ClickedBackgroundColor": "#0FFFFFFF",
@@ -188,6 +192,7 @@
       "HoveredTextColor": "#FF6495ED",
       "ClickedTextColor": "#FF4169E1"
     },
+    "CornerRadius": 10,
     "BackgroundColor": "#00FFFFFF",
     "HoveredBackgroundColor": "#19FFFFFF",
     "ClickedBackgroundColor": "#0FFFFFFF",
@@ -249,8 +254,12 @@
       "ClickedTextColor": "#FFFFFFFF"
     },
     "VolumeBarForegroundColor": "#FF1E90FF",
+    "VolumeBarForegroundGradientColor": "#FF0052A3",
     "VolumeBarBackgroundColor": "#FF696969",
     "PopupBackgroundColor": "#FFA9A9A9",
+    "VolumeBarThumbColor": "#FF696969",
+    "VolumeBarThumbBorderColor": "#FF1E90FF",
+    "CornerRadius": 10,
     "BackgroundColor": "#00FFFFFF",
     "HoveredBackgroundColor": "#19FFFFFF",
     "ClickedBackgroundColor": "#0FFFFFFF",
@@ -263,13 +272,50 @@
   },
   "ProgressBar": {
     "ForegroundColor": "#FF1E90FF",
+    "ForegroundGradientColor": "#FF0052A3",
     "BackgroundColor": "#FF696969",
     "HoverColor": "#FF00BFFF",
+    "ProgressBarThumbColor": "#FF696969",
+    "ThumbBorderColor": "#FF00BFFF",
     "IsVisible": true,
     "Width": 200.0,
     "Height": 2.5,
     "XPosition": 0.0,
     "YPosition": 26.0,
+    "Anchor": 9
+  },
+  "LikeButton": {
+    "LikeContent": {
+      "ContentType": 1,
+      "ImagePath": null,
+      "HoveredImagePath": null,
+      "ClickedImagePath": null,
+      "FontFamily": "Segoe MDL2 Assets",
+      "Text": "",
+      "TextColor": "#FFFFFFFF",
+      "HoveredTextColor": "#FFFFFFFF",
+      "ClickedTextColor": "#FFFFFFFF"
+    },
+    "DislikeContent": {
+      "ContentType": 1,
+      "ImagePath": null,
+      "HoveredImagePath": null,
+      "ClickedImagePath": null,
+      "FontFamily": "Segoe MDL2 Assets",
+      "Text": "",
+      "TextColor": "#FFFF0000",
+      "HoveredTextColor": "#FFDD3636",
+      "ClickedTextColor": "#FFA51919"
+    },
+    "CornerRadius": 10,
+    "BackgroundColor": "#00FFFFFF",
+    "HoveredBackgroundColor": "#19FFFFFF",
+    "ClickedBackgroundColor": "#0FFFFFFF",
+    "IsVisible": false,
+    "Width": 40.0,
+    "Height": 15.0,
+    "XPosition": 0.0,
+    "YPosition": 3.0,
     "Anchor": 9
   }
 }
