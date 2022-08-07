@@ -1,11 +1,47 @@
 [
   {
-    "name": "Compact",
-    "description": "The standard Compact profile, perfect for minimal space usage.",
+    "name": "Default (Compact)",
+    "description": "A compacted version of the Default profile, for those who like functionality but don't want to occupy a lot of space.",
     "authors": "svr333",
     "version": "v1.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact/Compact.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact/Compact.profile.json",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default%20(Compact)/Default%20(Compact).png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default%20(Compact)/Default%20(Compact).profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "Spotify",
+    "description": "A theme mainly focused on Spotify's Like Button, using Spotify's color scheme to replicate its theme.",
+    "authors": "svr333",
+    "version": "v1.0.0",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Spotify/Spotify.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Spotify/Spotify.profile.json",
+    "assetsUrl": "Profiles/Spotify/Assets"
+  },
+  {
+    "name": "Ultracompact",
+    "description": "This will really stay out of your way. Only 30x80 pixels, containing all the essentials.",
+    "authors": "diggoran",
+    "version": "v1.0.0",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Ultracompact/Ultracompact.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Ultracompact/Ultracompact.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "No Controls",
+    "description": "The standard Compact profile, perfect for minimal space usage.",
+    "authors": "svr333",
+    "version": "v0.0.1",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/No%20Controls/No%20Controls.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/No%20Controls/No%20Controls.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "Idle",
+    "description": "The standard idle profile, very small and optimally used together with the automatic idle profile switch functionality.",
+    "authors": "svr333",
+    "version": "v1.0.1",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Idle/Idle.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Idle/Idle.profile.json",
     "assetsUrl": ""
   },
   {
@@ -27,48 +63,12 @@
     "assetsUrl": ""
   },
   {
-    "name": "Ultracompact",
-    "description": "This will really stay out of your way. Only 30x80 pixels, containing all the essentials.",
-    "authors": "diggoran",
-    "version": "v1.0.0",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Ultracompact/Ultracompact.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Ultracompact/Ultracompact.profile.json",
-    "assetsUrl": ""
-  },
-  {
-    "name": "Default (Compact)",
-    "description": "A compacted version of the Default profile, for those who like functionality but don't want to occupy a lot of space.",
-    "authors": "svr333",
-    "version": "v1.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default%20(Compact)/Default%20(Compact).png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default%20(Compact)/Default%20(Compact).profile.json",
-    "assetsUrl": ""
-  },
-  {
-    "name": "Idle",
-    "description": "The standard idle profile, very small and optimally used together with the automatic idle profile switch functionality.",
-    "authors": "svr333",
-    "version": "v1.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Idle/Idle.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Idle/Idle.profile.json",
-    "assetsUrl": ""
-  },
-  {
-    "name": "Spotify",
-    "description": "A theme mainly focused on Spotify's Like Button, using Spotify's color scheme to replicate its theme.",
-    "authors": "svr333",
-    "version": "v1.0.0",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Spotify/Spotify.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Spotify/Spotify.profile.json",
-    "assetsUrl": "Profiles/Spotify/Assets"
-  },
-  {
-    "name": "No Controls",
+    "name": "Compact",
     "description": "The standard Compact profile, perfect for minimal space usage.",
     "authors": "svr333",
-    "version": "v0.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/No%20Controls/No%20Controls.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/No%20Controls/No%20Controls.profile.json",
+    "version": "v1.0.1",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact/Compact.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact/Compact.profile.json",
     "assetsUrl": ""
   }
 ]
