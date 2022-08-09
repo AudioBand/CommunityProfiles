@@ -1,6 +1,7 @@
 {
   "Version": "v0.0.1",
-  "Name": "Minimal",
+  "Name": "MinimalMod",
+
   "AlbumArtPopup": {
     "IsVisible": false,
     "Width": 250.0,
