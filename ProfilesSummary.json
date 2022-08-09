@@ -1,20 +1,20 @@
 [
   {
-    "name": "BigButtons",
-    "description": "Just three big buttons. You won't missclick again.",
-    "authors": "VitalityV1nT",
-    "version": "v0.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/BigButtons/BigButtons.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/BigButtons/BigButtons.profile.json",
+    "name": "Default (Compact)",
+    "description": "A compacted version of the Default profile, for those who like functionality but don't want to occupy a lot of space.",
+    "authors": "svr333",
+    "version": "v1.0.1",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default%20(Compact)/Default%20(Compact).png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default%20(Compact)/Default%20(Compact).profile.json",
     "assetsUrl": ""
   },
   {
-    "name": "Compact",
-    "description": "The standard Compact profile, perfect for minimal space usage.",
-    "authors": "svr333",
-    "version": "v1.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact/Compact.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact/Compact.profile.json",
+    "name": "Qt Pie",
+    "description": "The first pink profile for AudioBand tehe; semi-compact and full of character! NOTE: The volume button is displayed when hovering the center of the album art.",
+    "authors": "Klementine",
+    "version": "v0.0.1",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Qt%20Pie/Qt%20Pie.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Qt%20Pie/Qt%20Pie.profile.json",
     "assetsUrl": ""
   },
   {
@@ -27,21 +27,30 @@
     "assetsUrl": ""
   },
   {
+    "name": "BigButtons",
+    "description": "Just three big buttons. You won't missclick again.",
+    "authors": "VitalityV1nT",
+    "version": "v0.0.1",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/BigButtons/BigButtons.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/BigButtons/BigButtons.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "MinimalMod",
+    "description": "Some change from Minimal version by Gustavo Pimentel",
+    "authors": "Keeni Ngo",
+    "version": "v0.0.1",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/MinimalMod/MinimalMod.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/MinimalMod/MinimalMod.profile.json",
+    "assetsUrl": ""
+  },
+  {
     "name": "No Controls",
     "description": "The standard Compact profile, perfect for minimal space usage.",
     "authors": "svr333",
     "version": "v0.0.1",
     "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/No%20Controls/No%20Controls.png",
     "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/No%20Controls/No%20Controls.profile.json",
-    "assetsUrl": ""
-  },
-  {
-    "name": "Default (Compact)",
-    "description": "A compacted version of the Default profile, for those who like functionality but don't want to occupy a lot of space.",
-    "authors": "svr333",
-    "version": "v1.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default%20(Compact)/Default%20(Compact).png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default%20(Compact)/Default%20(Compact).profile.json",
     "assetsUrl": ""
   },
   {
@@ -54,12 +63,21 @@
     "assetsUrl": "Profiles/Spotify/Assets"
   },
   {
-    "name": "Idle",
-    "description": "The standard idle profile, very small and optimally used together with the automatic idle profile switch functionality.",
+    "name": "Ultracompact",
+    "description": "This will really stay out of your way. Only 30x80 pixels, containing all the essentials.",
+    "authors": "diggoran",
+    "version": "v1.0.0",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Ultracompact/Ultracompact.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Ultracompact/Ultracompact.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "Compact",
+    "description": "The standard Compact profile, perfect for minimal space usage.",
     "authors": "svr333",
     "version": "v1.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Idle/Idle.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Idle/Idle.profile.json",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact/Compact.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact/Compact.profile.json",
     "assetsUrl": ""
   },
   {
@@ -72,12 +90,12 @@
     "assetsUrl": ""
   },
   {
-    "name": "Ultracompact",
-    "description": "This will really stay out of your way. Only 30x80 pixels, containing all the essentials.",
-    "authors": "diggoran",
-    "version": "v1.0.0",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Ultracompact/Ultracompact.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Ultracompact/Ultracompact.profile.json",
+    "name": "Idle",
+    "description": "The standard idle profile, very small and optimally used together with the automatic idle profile switch functionality.",
+    "authors": "svr333",
+    "version": "v1.0.1",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Idle/Idle.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Idle/Idle.profile.json",
     "assetsUrl": ""
   }
 ]
