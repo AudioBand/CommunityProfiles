@@ -1,5 +1,23 @@
 [
   {
+    "name": "MinimalMod2",
+    "description": "Some changes from MinimalMod version with album art",
+    "authors": "Keeni Ngo",
+    "version": "v0.0.1",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/MinimalMod2/MinimalMod2.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/MinimalMod2/MinimalMod2.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "Spotify",
+    "description": "A theme mainly focused on Spotify's Like Button, using Spotify's color scheme to replicate its theme.",
+    "authors": "svr333",
+    "version": "v1.0.0",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Spotify/Spotify.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Spotify/Spotify.profile.json",
+    "assetsUrl": "Profiles/Spotify/Assets"
+  },
+  {
     "name": "Default (Compact)",
     "description": "A compacted version of the Default profile, for those who like functionality but don't want to occupy a lot of space.",
     "authors": "svr333",
@@ -9,12 +27,12 @@
     "assetsUrl": ""
   },
   {
-    "name": "Qt Pie",
-    "description": "The first pink profile for AudioBand tehe; semi-compact and full of character! NOTE: The volume button is displayed when hovering the center of the album art.",
-    "authors": "Klementine",
-    "version": "v0.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Qt%20Pie/Qt%20Pie.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Qt%20Pie/Qt%20Pie.profile.json",
+    "name": "Idle",
+    "description": "The standard idle profile, very small and optimally used together with the automatic idle profile switch functionality.",
+    "authors": "svr333",
+    "version": "v1.0.1",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Idle/Idle.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Idle/Idle.profile.json",
     "assetsUrl": ""
   },
   {
@@ -27,17 +45,8 @@
     "assetsUrl": ""
   },
   {
-    "name": "BigButtons",
-    "description": "Just three big buttons. You won't missclick again.",
-    "authors": "VitalityV1nT",
-    "version": "v0.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/BigButtons/BigButtons.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/BigButtons/BigButtons.profile.json",
-    "assetsUrl": ""
-  },
-  {
     "name": "MinimalMod",
-    "description": "Some change from Minimal version by Gustavo Pimentel",
+    "description": "Some changes from Minimal version by Gustavo Pimentel",
     "authors": "Keeni Ngo",
     "version": "v0.0.1",
     "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/MinimalMod/MinimalMod.png",
@@ -54,13 +63,31 @@
     "assetsUrl": ""
   },
   {
-    "name": "Spotify",
-    "description": "A theme mainly focused on Spotify's Like Button, using Spotify's color scheme to replicate its theme.",
-    "authors": "svr333",
-    "version": "v1.0.0",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Spotify/Spotify.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Spotify/Spotify.profile.json",
-    "assetsUrl": "Profiles/Spotify/Assets"
+    "name": "BigButtons",
+    "description": "Just three big buttons. You won't missclick again.",
+    "authors": "VitalityV1nT",
+    "version": "v0.0.1",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/BigButtons/BigButtons.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/BigButtons/BigButtons.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "Default",
+    "description": "The default profile, with full functionality. Occupies a wide space.",
+    "authors": "Dsafa, svr333",
+    "version": "v1.0.1",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default/Default.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default/Default.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "Qt Pie",
+    "description": "The first pink profile for AudioBand tehe; semi-compact and full of character! NOTE: The volume button is displayed when hovering the center of the album art.",
+    "authors": "Klementine",
+    "version": "v0.0.1",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Qt%20Pie/Qt%20Pie.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Qt%20Pie/Qt%20Pie.profile.json",
+    "assetsUrl": ""
   },
   {
     "name": "Ultracompact",
@@ -78,24 +105,6 @@
     "version": "v1.0.1",
     "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact/Compact.png",
     "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact/Compact.profile.json",
-    "assetsUrl": ""
-  },
-  {
-    "name": "Default",
-    "description": "The default profile, with full functionality. Occupies a wide space.",
-    "authors": "Dsafa, svr333",
-    "version": "v1.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default/Default.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default/Default.profile.json",
-    "assetsUrl": ""
-  },
-  {
-    "name": "Idle",
-    "description": "The standard idle profile, very small and optimally used together with the automatic idle profile switch functionality.",
-    "authors": "svr333",
-    "version": "v1.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Idle/Idle.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Idle/Idle.profile.json",
     "assetsUrl": ""
   }
 ]
