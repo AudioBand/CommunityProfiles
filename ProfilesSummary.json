@@ -1,14 +1,5 @@
 [
   {
-    "name": "BigButtons",
-    "description": "Just three big buttons. You won't missclick again.",
-    "authors": "VitalityV1nT",
-    "version": "v0.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/BigButtons/BigButtons.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/BigButtons/BigButtons.profile.json",
-    "assetsUrl": ""
-  },
-  {
     "name": "Default",
     "description": "The default profile, with full functionality. Occupies a wide space.",
     "authors": "Dsafa, svr333",
@@ -18,12 +9,21 @@
     "assetsUrl": ""
   },
   {
-    "name": "Minimal",
-    "description": "A minimal profile with a subtle progressbar for small taskbars",
-    "authors": "Gustavo Pimentel",
+    "name": "MinimalMod2",
+    "description": "Some changes from MinimalMod version with album art",
+    "authors": "Keeni Ngo",
     "version": "v0.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Minimal/Minimal.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Minimal/Minimal.profile.json",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/MinimalMod2/MinimalMod2.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/MinimalMod2/MinimalMod2.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "BigButtons",
+    "description": "Just three big buttons. You won't missclick again.",
+    "authors": "VitalityV1nT",
+    "version": "v0.0.1",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/BigButtons/BigButtons.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/BigButtons/BigButtons.profile.json",
     "assetsUrl": ""
   },
   {
@@ -36,20 +36,12 @@
     "assetsUrl": ""
   },
   {
-    "name": "Ultracompact",
-    "description": "This will really stay out of your way. Only 30x80 pixels, containing all the essentials.",
-    "authors": "diggoran",
-    "version": "v1.0.0",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Ultracompact/Ultracompact.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Ultracompact/Ultracompact.profile.json",
-    "assetsUrl": ""
-  },
-  {
-    "name": "Spotify Style Refined",
-    "description": "Fine tuned alignment of song length and progress to look good even with very long songs. Colors adjusted  to give good visibility using light theme on windows 11",
-    "authors": "ariccb",
+    "name": "Dynamic Bar",
+    "description": "A large profile with enough room for text and a big progress bar [450x40]. Can be resized by changing general & progress bar width.",
+    "authors": "Biiox",
     "version": "v0.0.1",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Spotify%20Style%20Refined/Spotify_Style_Refined.profile.json",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Dynamic%20Bar/Dynamic%20Bar.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Dynamic%20Bar/Dynamic%20Bar.profile.json",
     "assetsUrl": ""
   },
   {
@@ -62,15 +54,6 @@
     "assetsUrl": ""
   },
   {
-    "name": "Dynamic Bar",
-    "description": "A large profile with enough room for text and a big progress bar [450x40]. Can be resized by changing general & progress bar width.",
-    "authors": "Biiox",
-    "version": "v0.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Dynamic%20Bar/Dynamic%20Bar.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Dynamic%20Bar/Dynamic%20Bar.profile.json",
-    "assetsUrl": ""
-  },
-  {
     "name": "Spotify",
     "description": "A theme mainly focused on Spotify's Like Button, using Spotify's color scheme to replicate its theme.",
     "authors": "svr333",
@@ -78,6 +61,24 @@
     "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Spotify/Spotify.png",
     "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Spotify/Spotify.profile.json",
     "assetsUrl": "Profiles/Spotify/Assets"
+  },
+  {
+    "name": "Minimal",
+    "description": "A minimal profile with a subtle progressbar for small taskbars",
+    "authors": "Gustavo Pimentel",
+    "version": "v0.0.1",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Minimal/Minimal.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Minimal/Minimal.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "Qt Pie",
+    "description": "The first pink profile for AudioBand tehe; semi-compact and full of character! NOTE: The volume button is displayed when hovering the center of the album art.",
+    "authors": "Klementine",
+    "version": "v0.0.1",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Qt%20Pie/Qt%20Pie.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Qt%20Pie/Qt%20Pie.profile.json",
+    "assetsUrl": ""
   },
   {
     "name": "No Controls",
@@ -98,6 +99,14 @@
     "assetsUrl": ""
   },
   {
+    "name": "Spotify Style Refined",
+    "description": "Fine tuned alignment of song length and progress to look good even with very long songs. Colors adjusted  to give good visibility using light theme on windows 11",
+    "authors": "ariccb",
+    "version": "v0.0.1",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Spotify%20Style%20Refined/Spotify_Style_Refined.profile.json",
+    "assetsUrl": ""
+  },
+  {
     "name": "MinimalMod",
     "description": "Some changes from Minimal version by Gustavo Pimentel",
     "authors": "Keeni Ngo",
@@ -107,30 +116,21 @@
     "assetsUrl": ""
   },
   {
-    "name": "MinimalMod2",
-    "description": "Some changes from MinimalMod version with album art",
-    "authors": "Keeni Ngo",
-    "version": "v0.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/MinimalMod2/MinimalMod2.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/MinimalMod2/MinimalMod2.profile.json",
-    "assetsUrl": ""
-  },
-  {
-    "name": "Qt Pie",
-    "description": "The first pink profile for AudioBand tehe; semi-compact and full of character! NOTE: The volume button is displayed when hovering the center of the album art.",
-    "authors": "Klementine",
-    "version": "v0.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Qt%20Pie/Qt%20Pie.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Qt%20Pie/Qt%20Pie.profile.json",
-    "assetsUrl": ""
-  },
-  {
     "name": "Idle",
     "description": "The standard idle profile, very small and optimally used together with the automatic idle profile switch functionality.",
     "authors": "svr333",
     "version": "v1.0.1",
     "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Idle/Idle.png",
     "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Idle/Idle.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "Ultracompact",
+    "description": "This will really stay out of your way. Only 30x80 pixels, containing all the essentials.",
+    "authors": "diggoran",
+    "version": "v1.0.0",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Ultracompact/Ultracompact.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Ultracompact/Ultracompact.profile.json",
     "assetsUrl": ""
   }
 ]
