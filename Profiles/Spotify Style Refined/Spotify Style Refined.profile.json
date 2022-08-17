@@ -1,5 +1,5 @@
 {
-  "Version": "v0.0.1",
+  "Version": "v0.0.2",
   "Name": "Spotify Style Refined",
   "AlbumArtPopup": {
     "IsVisible": true,
@@ -13,12 +13,12 @@
     "IsVisible": true,
     "Width": 32.0,
     "Height": 32.0,
-    "XPosition": 178.0,
+    "XPosition": 176.5,
     "YPosition": 2.0,
     "Anchor": 9
   },
   "GeneralSettings": {
-    "Width": 430.0,
+    "Width": 410.0,
     "Height": 36.0,
     "BackgroundColor": "#00000000"
   },
@@ -28,18 +28,18 @@
       "FontSize": 13.0,
       "Color": "#FF8E8E8E",
       "FormatString": "{length}",
-      "Alignment": 1,
+      "Alignment": 2,
       "Name": "Song Length",
       "ScrollSpeed": 5000,
-      "TextOverflow": 0,
+      "TextOverflow": 1,
       "ScrollBehavior": 0,
       "FadeEffect": 2,
       "LeftFadeOffset": 0.1,
       "RightFadeOffset": 0.9,
       "IsVisible": true,
-      "Width": 24.0,
+      "Width": 46.0,
       "Height": 15.0,
-      "XPosition": 352.0,
+      "XPosition": 342.0,
       "YPosition": 19.0,
       "Anchor": 9
     },
@@ -48,20 +48,20 @@
       "FontSize": 13.0,
       "Color": "#FF8E8E8E",
       "FormatString": "{time}",
-      "Alignment": 0,
+      "Alignment": 2,
       "Name": "Song Progress",
-      "ScrollSpeed": 5000,
-      "TextOverflow": 0,
-      "ScrollBehavior": 0,
-      "FadeEffect": 2,
-      "LeftFadeOffset": 0.1,
-      "RightFadeOffset": 0.9,
+      "ScrollSpeed": 3000,
+      "TextOverflow": 1,
+      "ScrollBehavior": 2,
+      "FadeEffect": 1,
+      "LeftFadeOffset": 0.10789473684210527,
+      "RightFadeOffset": 0.9631578947368421,
       "IsVisible": true,
-      "Width": 24.0,
+      "Width": 40.5,
       "Height": 15.0,
-      "XPosition": 220.0,
+      "XPosition": 159.0,
       "YPosition": 19.0,
-      "Anchor": 9
+      "Anchor": 3
     },
     {
       "FontFamily": "Avenir Next LT Pro",
@@ -72,16 +72,16 @@
       "Name": "Song Name",
       "ScrollSpeed": 7500,
       "TextOverflow": 1,
-      "ScrollBehavior": 0,
+      "ScrollBehavior": 1,
       "FadeEffect": 2,
-      "LeftFadeOffset": 0.05526315789473684,
-      "RightFadeOffset": 0.96052631578947367,
+      "LeftFadeOffset": 0.13947368421052631,
+      "RightFadeOffset": 0.95789473684210513,
       "IsVisible": true,
-      "Width": 173.0,
+      "Width": 172.0,
       "Height": 20.0,
-      "XPosition": 0.0,
+      "XPosition": 240.0,
       "YPosition": 1.0,
-      "Anchor": 9
+      "Anchor": 3
     },
     {
       "FontFamily": "Segoe UI",
@@ -94,14 +94,14 @@
       "TextOverflow": 1,
       "ScrollBehavior": 0,
       "FadeEffect": 2,
-      "LeftFadeOffset": 0.026315789473684209,
-      "RightFadeOffset": 0.97368421052631582,
+      "LeftFadeOffset": 0.14473684210526316,
+      "RightFadeOffset": 0.96052631578947367,
       "IsVisible": true,
       "Width": 172.0,
       "Height": 20.0,
-      "XPosition": 0.0,
+      "XPosition": 240.0,
       "YPosition": 18.0,
-      "Anchor": 9
+      "Anchor": 3
     }
   ],
   "NextButton": {
@@ -187,7 +187,7 @@
   "RepeatModeButton": {
     "RepeatOffContent": {
       "ContentType": 1,
-      "ImagePath": null,
+      "ImagePath": "C:\\Users\\aricb\\Downloads\\repeat.png",
       "HoveredImagePath": null,
       "ClickedImagePath": null,
       "FontFamily": "Segoe MDL2 Assets",
@@ -222,11 +222,11 @@
     "BackgroundColor": "#00FFFFFF",
     "HoveredBackgroundColor": "#00FFFFFF",
     "ClickedBackgroundColor": "#00FFFFFF",
-    "IsVisible": false,
+    "IsVisible": true,
     "Width": 32.0,
-    "Height": 16.0,
-    "XPosition": 350.0,
-    "YPosition": 2.0,
+    "Height": 13.5,
+    "XPosition": 348.0,
+    "YPosition": 3.5,
     "Anchor": 9
   },
   "ShuffleModeButton": {
@@ -259,15 +259,15 @@
     "IsVisible": true,
     "Width": 32.0,
     "Height": 16.0,
-    "XPosition": 214.0,
+    "XPosition": 215.0,
     "YPosition": 2.0,
     "Anchor": 9
   },
   "VolumeButton": {
     "PopupWidth": 150.0,
     "PopupHeight": 30.0,
-    "XPopupOffset": 24.5,
-    "YPopupOffset": -10.5,
+    "XPopupOffset": 22.0,
+    "YPopupOffset": -5.0,
     "IsHorizontal": false,
     "NoVolumeContent": {
       "ContentType": 1,
@@ -276,7 +276,7 @@
       "ClickedImagePath": null,
       "FontFamily": "Segoe MDL2 Assets",
       "Text": "",
-      "TextColor": "#FF8E8E8E",
+      "TextColor": "#FFBBBBBB",
       "HoveredTextColor": "#FFFFFFFF",
       "ClickedTextColor": "#FFFFFFFF"
     },
@@ -287,7 +287,7 @@
       "ClickedImagePath": null,
       "FontFamily": "Segoe MDL2 Assets",
       "Text": "",
-      "TextColor": "#FF8E8E8E",
+      "TextColor": "#FFBBBBBB",
       "HoveredTextColor": "#FFFFFFFF",
       "ClickedTextColor": "#FFFFFFFF"
     },
@@ -298,7 +298,7 @@
       "ClickedImagePath": null,
       "FontFamily": "Segoe MDL2 Assets",
       "Text": "",
-      "TextColor": "#FFFFFFFF",
+      "TextColor": "#FFBBBBBB",
       "HoveredTextColor": "#FFFFFFFF",
       "ClickedTextColor": "#FFFFFFFF"
     },
@@ -309,25 +309,25 @@
       "ClickedImagePath": null,
       "FontFamily": "Segoe MDL2 Assets",
       "Text": "",
-      "TextColor": "#FF8E8E8E",
+      "TextColor": "#FFBBBBBB",
       "HoveredTextColor": "#FFFFFFFF",
       "ClickedTextColor": "#FFFFFFFF"
     },
     "VolumeBarForegroundColor": "#271DB854",
     "VolumeBarForegroundGradientColor": "#FF1DB854",
-    "VolumeBarBackgroundColor": "#FF8E8E8E",
+    "VolumeBarBackgroundColor": "#FFBBBBBB",
     "PopupBackgroundColor": "#FFE5E3E8",
-    "VolumeBarThumbColor": "#FF8E8E8E",
-    "VolumeBarThumbBorderColor": "#FF8E8E8E",
+    "VolumeBarThumbColor": "#FFBBBBBB",
+    "VolumeBarThumbBorderColor": "#FFBBBBBB",
     "CornerRadius": 10,
     "BackgroundColor": "#008E8E8E",
     "HoveredBackgroundColor": "#00FFFFFF",
     "ClickedBackgroundColor": "#00FFFFFF",
     "IsVisible": true,
-    "Width": 20.0,
-    "Height": 20.0,
-    "XPosition": 390.0,
-    "YPosition": 8.0,
+    "Width": 17.0,
+    "Height": 15.0,
+    "XPosition": 388.0,
+    "YPosition": 2.0,
     "Anchor": 9
   },
   "ProgressBar": {
@@ -354,7 +354,7 @@
       "Text": "",
       "TextColor": "#FFBBBBBB",
       "HoveredTextColor": "#FFFFFFFF",
-      "ClickedTextColor": "#FF60C138"
+      "ClickedTextColor": "#FFFFFFFF"
     },
     "DislikeContent": {
       "ContentType": 1,
@@ -363,19 +363,19 @@
       "ClickedImagePath": null,
       "FontFamily": "Segoe MDL2 Assets",
       "Text": "",
-      "TextColor": "#FFFF0000",
-      "HoveredTextColor": "#FFDD3636",
-      "ClickedTextColor": "#FFA51919"
+      "TextColor": "#FF60C138",
+      "HoveredTextColor": "#FFFFFFFF",
+      "ClickedTextColor": "#FFFFFFFF"
     },
     "CornerRadius": 10,
     "BackgroundColor": "#00FFFFFF",
     "HoveredBackgroundColor": "#19FFFFFF",
     "ClickedBackgroundColor": "#0FFFFFFF",
     "IsVisible": true,
-    "Width": 32.0,
-    "Height": 16.0,
-    "XPosition": 347.5,
-    "YPosition": 2.0,
+    "Width": 29.5,
+    "Height": 15.0,
+    "XPosition": 382.0,
+    "YPosition": 20.0,
     "Anchor": 9
   }
 }
