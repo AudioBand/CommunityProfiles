@@ -24,7 +24,7 @@
   },
   "CustomLabels": [
     {
-      "FontFamily": "Barlow",
+      "FontFamily": "Segoe UI",
       "FontSize": 10.0,
       "Color": "#FFF6F6F7",
       "FormatString": "{song}",
@@ -44,7 +44,7 @@
       "Anchor": 9
     },
     {
-      "FontFamily": "Barlow",
+      "FontFamily": "Segoe UI",
       "FontSize": 10.0,
       "Color": "#FF9496A3",
       "FormatString": "{artist}",
