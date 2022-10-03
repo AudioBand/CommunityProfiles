@@ -1,24 +1,24 @@
 {
-  "Version": "v0.0.1",
+  "Version": "v0.0.2",
   "Name": "Compact Spotify (Red)",
   "AlbumArtPopup": {
     "IsVisible": true,
-    "Width": 250.0,
-    "Height": 250.0,
-    "XPosition": -32.0,
-    "Margin": 0.0
+    "Width": 350.0,
+    "Height": 350.0,
+    "XPosition": 0.0,
+    "Margin": -2.0
   },
   "AlbumArt": {
     "PlaceholderPath": "",
     "IsVisible": true,
-    "Width": 40.0,
-    "Height": 40.0,
+    "Width": 41.0,
+    "Height": 37.0,
     "XPosition": 0.0,
-    "YPosition": 0.0,
+    "YPosition": 2.0,
     "Anchor": 9
   },
   "GeneralSettings": {
-    "Width": 188.0,
+    "Width": 190.0,
     "Height": 40.0,
     "BackgroundColor": "#00FFFFFF"
   },
@@ -30,16 +30,16 @@
       "FormatString": "{*song} | {artist}",
       "Alignment": 0,
       "Name": "Song | Artist",
-      "ScrollSpeed": 4500,
+      "ScrollSpeed": 3000,
       "TextOverflow": 1,
-      "ScrollBehavior": 1,
-      "FadeEffect": 2,
-      "LeftFadeOffset": 0.052631578947368418,
-      "RightFadeOffset": 0.94736842105263164,
+      "ScrollBehavior": 2,
+      "FadeEffect": 1,
+      "LeftFadeOffset": 0.0,
+      "RightFadeOffset": 0.99210526315789471,
       "IsVisible": true,
-      "Width": 144.0,
-      "Height": 30.0,
-      "XPosition": 42.0,
+      "Width": 146.0,
+      "Height": 20.0,
+      "XPosition": 43.0,
       "YPosition": 2.0,
       "Anchor": 9
     }
@@ -52,7 +52,7 @@
       "ClickedImagePath": null,
       "FontFamily": "Segoe MDL2 Assets",
       "Text": "",
-      "TextColor": "#30FFFFFF",
+      "TextColor": "#FF808080",
       "HoveredTextColor": "#FFFFFFFF",
       "ClickedTextColor": "#FFE61919"
     },
@@ -63,7 +63,7 @@
     "IsVisible": true,
     "Width": 15.0,
     "Height": 15.0,
-    "XPosition": 50.0,
+    "XPosition": 48.0,
     "YPosition": 19.0,
     "Anchor": 3
   },
@@ -75,7 +75,7 @@
       "ClickedImagePath": null,
       "FontFamily": "Segoe MDL2 Assets",
       "Text": "",
-      "TextColor": "#30FFFFFF",
+      "TextColor": "#FF808080",
       "HoveredTextColor": "#FFFFFFFF",
       "ClickedTextColor": "#FFE61919"
     },
@@ -86,7 +86,7 @@
     "IsVisible": true,
     "Width": 15.0,
     "Height": 15.0,
-    "XPosition": 84.0,
+    "XPosition": 83.0,
     "YPosition": 19.0,
     "Anchor": 3
   },
@@ -98,7 +98,7 @@
       "ClickedImagePath": null,
       "FontFamily": "Segoe MDL2 Assets",
       "Text": "",
-      "TextColor": "#30FFFFFF",
+      "TextColor": "#FF808080",
       "HoveredTextColor": "#FFFFFFFF",
       "ClickedTextColor": "#FFE61919"
     },
@@ -120,7 +120,7 @@
     "IsVisible": true,
     "Width": 15.0,
     "Height": 15.0,
-    "XPosition": 67.0,
+    "XPosition": 66.0,
     "YPosition": 19.0,
     "Anchor": 3
   },
@@ -132,7 +132,7 @@
       "ClickedImagePath": null,
       "FontFamily": "Segoe MDL2 Assets",
       "Text": "",
-      "TextColor": "#30FFFFFF",
+      "TextColor": "#FF808080",
       "HoveredTextColor": "#FFFFFFFF",
       "ClickedTextColor": "#FF808080"
     },
@@ -144,7 +144,7 @@
       "FontFamily": "Segoe MDL2 Assets",
       "Text": "",
       "TextColor": "#FFE61919",
-      "HoveredTextColor": "#FFE54343",
+      "HoveredTextColor": "#FFED7979",
       "ClickedTextColor": "#FFFF0000"
     },
     "RepeatTrackContent": {
@@ -155,7 +155,7 @@
       "FontFamily": "Segoe MDL2 Assets",
       "Text": "",
       "TextColor": "#FFE61919",
-      "HoveredTextColor": "#FFE54343",
+      "HoveredTextColor": "#FFED7979",
       "ClickedTextColor": "#FFFF0000"
     },
     "CornerRadius": 10,
@@ -165,7 +165,7 @@
     "IsVisible": true,
     "Width": 20.0,
     "Height": 15.0,
-    "XPosition": 143.0,
+    "XPosition": 147.0,
     "YPosition": 19.0,
     "Anchor": 9
   },
@@ -177,7 +177,7 @@
       "ClickedImagePath": null,
       "FontFamily": "Segoe MDL2 Assets",
       "Text": "",
-      "TextColor": "#30FFFFFF",
+      "TextColor": "#FF808080",
       "HoveredTextColor": "#FFFFFFFF",
       "ClickedTextColor": "#FF808080"
     },
@@ -189,7 +189,7 @@
       "FontFamily": "Segoe MDL2 Assets",
       "Text": "",
       "TextColor": "#FFE61919",
-      "HoveredTextColor": "#FFE54343",
+      "HoveredTextColor": "#FFED7979",
       "ClickedTextColor": "#FFFF0000"
     },
     "CornerRadius": 3,
@@ -199,7 +199,7 @@
     "IsVisible": true,
     "Width": 20.0,
     "Height": 18.0,
-    "XPosition": 105.0,
+    "XPosition": 104.0,
     "YPosition": 18.0,
     "Anchor": 3
   },
@@ -216,7 +216,7 @@
       "ClickedImagePath": null,
       "FontFamily": "Segoe MDL2 Assets",
       "Text": "",
-      "TextColor": "#30FFFFFF",
+      "TextColor": "#FF808080",
       "HoveredTextColor": "#FFFFFFFF",
       "ClickedTextColor": "#FFFFFFFF"
     },
@@ -227,7 +227,7 @@
       "ClickedImagePath": null,
       "FontFamily": "Segoe MDL2 Assets",
       "Text": "",
-      "TextColor": "#30FFFFFF",
+      "TextColor": "#FF808080",
       "HoveredTextColor": "#FFFFFFFF",
       "ClickedTextColor": "#FFFFFFFF"
     },
@@ -238,7 +238,7 @@
       "ClickedImagePath": null,
       "FontFamily": "Segoe MDL2 Assets",
       "Text": "",
-      "TextColor": "#30FFFFFF",
+      "TextColor": "#FF808080",
       "HoveredTextColor": "#FFFFFFFF",
       "ClickedTextColor": "#FFFFFFFF"
     },
@@ -249,16 +249,16 @@
       "ClickedImagePath": null,
       "FontFamily": "Segoe MDL2 Assets",
       "Text": "",
-      "TextColor": "#30FFFFFF",
+      "TextColor": "#FF808080",
       "HoveredTextColor": "#FFFFFFFF",
       "ClickedTextColor": "#FFFFFFFF"
     },
     "VolumeBarForegroundColor": "#FFE64848",
     "VolumeBarForegroundGradientColor": "#FFE61919",
-    "VolumeBarBackgroundColor": "#FFFFFFFF",
+    "VolumeBarBackgroundColor": "#FF808080",
     "PopupBackgroundColor": "#C9101010",
-    "VolumeBarThumbColor": "#FF808080",
-    "VolumeBarThumbBorderColor": "#FFF48484",
+    "VolumeBarThumbColor": "#FFE1E1E1",
+    "VolumeBarThumbBorderColor": "#FFE64848",
     "CornerRadius": 3,
     "BackgroundColor": "#00FFFFFF",
     "HoveredBackgroundColor": "#00FFFFFF",
@@ -266,20 +266,20 @@
     "IsVisible": true,
     "Width": 15.0,
     "Height": 15.0,
-    "XPosition": 5.0,
+    "XPosition": 4.0,
     "YPosition": 19.0,
     "Anchor": 3
   },
   "ProgressBar": {
     "ForegroundColor": "#FFE64848",
     "ForegroundGradientColor": "#FFE61919",
-    "BackgroundColor": "#FFFFFFFF",
-    "HoverColor": "#FFF48484",
+    "BackgroundColor": "#FF808080",
+    "HoverColor": "#FFED7979",
     "ProgressBarThumbColor": "#FFF1DFDF",
-    "ThumbBorderColor": "#FFF48484",
+    "ThumbBorderColor": "#FFE64848",
     "IsVisible": true,
     "Width": 147.0,
-    "Height": 4.0,
+    "Height": 3.0,
     "XPosition": 0.0,
     "YPosition": -1.0,
     "Anchor": 6
@@ -292,7 +292,7 @@
       "ClickedImagePath": null,
       "FontFamily": "Segoe MDL2 Assets",
       "Text": "",
-      "TextColor": "#30FFFFFF",
+      "TextColor": "#FF808080",
       "HoveredTextColor": "#FFFFFFFF",
       "ClickedTextColor": "#FFFF0000"
     },
@@ -304,7 +304,7 @@
       "FontFamily": "Segoe MDL2 Assets",
       "Text": "",
       "TextColor": "#FFE61919",
-      "HoveredTextColor": "#FFE54343",
+      "HoveredTextColor": "#FFED7979",
       "ClickedTextColor": "#FFFFFFFF"
     },
     "CornerRadius": 3,
@@ -312,9 +312,9 @@
     "HoveredBackgroundColor": "#00FFFFFF",
     "ClickedBackgroundColor": "#00FFFFFF",
     "IsVisible": true,
-    "Width": 15.0,
+    "Width": 20.0,
     "Height": 15.0,
-    "XPosition": 130.0,
+    "XPosition": 127.0,
     "YPosition": 19.0,
     "Anchor": 3
   }
