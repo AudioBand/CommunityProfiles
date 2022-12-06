@@ -21,9 +21,9 @@ You also want to create a file called `about.json` in the subfolder with the fol
 }
 ```
 
-This is the bare minimum required to upload your profile, however I do highly recommend adding a preview image too.  
+This is the bare minimum required to upload your profile, however I do highly recommend adding a preview image too (Image fits best at 280px by 70px).
 
-Just name the file `PROFILE_NAME.png` (PROFILE_NAME being the name of your profile, image width is best at 275px).
+Just name the file `PROFILE_NAME.png` (PROFILE_NAME being the name of your profile).
 
 **That's it!**
 
