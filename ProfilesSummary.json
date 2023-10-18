@@ -1,155 +1,11 @@
 [
   {
-    "name": "Minimal Rust",
-    "description": "A slightly less minimal profile with control buttons and a rusty accent color.",
-    "authors": "ohitsdylan",
-    "version": "v0.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Minimal%20Rust/Minimal%20Rust.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Minimal%20Rust/Minimal%20Rust.profile.json",
-    "assetsUrl": ""
-  },
-  {
-    "name": "BigButtons",
-    "description": "Just three big buttons. You won't missclick again.",
-    "authors": "VitalityV1nT",
-    "version": "v0.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/BigButtons/BigButtons.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/BigButtons/BigButtons.profile.json",
-    "assetsUrl": ""
-  },
-  {
-    "name": "Compact Pause",
-    "description": "If a quick way of pausing is all you need.",
-    "authors": "Minz💕",
-    "version": "v0.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact%20Pause/Compact%20Pause.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact%20Pause/Compact%20Pause.profile.json",
-    "assetsUrl": ""
-  },
-  {
-    "name": "Bubblegum Green",
-    "description": "Modified from tanc's Spotify Style, this profile features bigger play, rewind, and skip buttons! The buttons are Spotify green when hovered, but shuffle and loop become pink once clicked :) If the artist's name is too long, it can be viewed while hovering",
-    "authors": "hauntedandholy",
-    "version": "v0.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Bubblegum%20Green/Bubblegum%20Green.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Bubblegum%20Green/Bubblegum%20Green.profile.json",
-    "assetsUrl": ""
-  },
-  {
-    "name": "Essentials 2",
-    "description": "Essentials but with a like button that is easily swapped with volume, shuffle, etc. Spotify green motif for like button and optional volume/progress bars.",
-    "authors": "Zimpery",
-    "version": "v1.0.0",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Essentials%202/Essentials%202.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Essentials%202/Essentials%202.profile.json",
-    "assetsUrl": ""
-  },
-  {
-    "name": "3 Line",
-    "description": "Compact 3 row layout to accomodate longer song, artist and album names while preserving horizontal space. All labels auto scroll by default. Also has a large 400x400 art popup to admire beautiful album covers (✿◡‿◡)",
-    "authors": "Minz💕",
-    "version": "v0.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/3%20Line/3%20Line.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/3%20Line/3%20Line.profile.json",
-    "assetsUrl": ""
-  },
-  {
-    "name": "No Controls",
-    "description": "The standard Compact profile, perfect for minimal space usage.",
-    "authors": "svr333",
-    "version": "v0.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/No%20Controls/No%20Controls.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/No%20Controls/No%20Controls.profile.json",
-    "assetsUrl": ""
-  },
-  {
-    "name": "Super Mini Album Art",
-    "description": "Tested with compact Windows 10 taskbar. Random, Shuffle, Next Previous, Play Pause buttons",
-    "authors": "inevitablesgather",
-    "version": "v1.0.0",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Super%20Mini%20Album%20Art/Super%20Mini%20Album%20Art.jpg",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Super%20Mini%20Album%20Art/Super%20Mini%20Album%20Art.profile.json",
-    "assetsUrl": ""
-  },
-  {
-    "name": "Ultracompact",
-    "description": "This will really stay out of your way. Only 30x80 pixels, containing all the essentials.",
-    "authors": "diggoran",
-    "version": "v1.0.0",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Ultracompact/Ultracompact.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Ultracompact/Ultracompact.profile.json",
-    "assetsUrl": ""
-  },
-  {
-    "name": "Default",
-    "description": "The default profile, with full functionality. Occupies a wide space.",
-    "authors": "Dsafa, svr333",
-    "version": "v1.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default/Default.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default/Default.profile.json",
-    "assetsUrl": ""
-  },
-  {
     "name": "Dynamic Bar",
     "description": "A large profile with enough room for text and a big progress bar [450x40]. Can be resized by changing general & progress bar width.",
     "authors": "Biiox",
     "version": "v0.0.1",
     "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Dynamic%20Bar/Dynamic%20Bar.png",
     "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Dynamic%20Bar/Dynamic%20Bar.profile.json",
-    "assetsUrl": ""
-  },
-  {
-    "name": "MinimalMod2",
-    "description": "Some changes from MinimalMod version with album art",
-    "authors": "Keeni Ngo",
-    "version": "v0.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/MinimalMod2/MinimalMod2.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/MinimalMod2/MinimalMod2.profile.json",
-    "assetsUrl": ""
-  },
-  {
-    "name": "Tall&Narrow",
-    "description": "Designed for Windows 10 with \"Use small taskbar buttons\" setting on, and taskbar resized to accommodate two rows. For the oldschool, informative look for powerusers I suggest trying to turn off \"Combine taskbar buttons\" as well. Skin features a HUGE album art popup!",
-    "authors": "raveren",
-    "version": "v0.0.2",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Tall%26Narrow/Tall%26Narrow.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Tall%26Narrow/Tall%26Narrow.profile.json",
-    "assetsUrl": ""
-  },
-  {
-    "name": "Spotify",
-    "description": "A theme mainly focused on Spotify's Like Button, using Spotify's color scheme to replicate its theme.",
-    "authors": "svr333",
-    "version": "v1.0.0",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Spotify/Spotify.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Spotify/Spotify.profile.json",
-    "assetsUrl": "Profiles/Spotify/Assets"
-  },
-  {
-    "name": "Spotify Style",
-    "description": "An alternative Spotify themed profile similar to the Default profile.",
-    "authors": "tanc",
-    "version": "v0.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Spotify%20Style/Spotify%20Style.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Spotify%20Style/Spotify%20Style.profile.json",
-    "assetsUrl": ""
-  },
-  {
-    "name": "SUPER Super Mini Album Art",
-    "description": "Random, Shuffle, Next Previous, Play Pause, Like Unlike Song, Seekbar Progress Bar buttons. VOLUME BAR ON ALBUM ART CLICK! Tested with compact windows 10 taskbar on 1080p resolution.",
-    "authors": "inevitablesgather",
-    "version": "v1.0.0",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/SUPER%20Super%20Mini%20Album%20Art/SUPER%20Super%20Mini%20Album%20Art.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/SUPER%20Super%20Mini%20Album%20Art/SUPER%20Super%20Mini%20Album%20Art.profile.json",
-    "assetsUrl": ""
-  },
-  {
-    "name": "Compact Spotify (Red)",
-    "description": "Compact version of spotify interface with red color.",
-    "authors": "JR_Hille",
-    "version": "v0.0.2",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact%20Spotify%20(Red)/Compact_Spotify_Red.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact%20Spotify%20(Red)/Compact_Spotify_Red.profile.json",
     "assetsUrl": ""
   },
   {
@@ -171,57 +27,66 @@
     "assetsUrl": ""
   },
   {
-    "name": "Idle",
-    "description": "The standard idle profile, very small and optimally used together with the automatic idle profile switch functionality.",
-    "authors": "svr333",
+    "name": "Default",
+    "description": "The default profile, with full functionality. Occupies a wide space.",
+    "authors": "Dsafa, svr333",
     "version": "v1.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Idle/Idle.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Idle/Idle.profile.json",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default/Default.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Default/Default.profile.json",
     "assetsUrl": ""
   },
   {
-    "name": "Spotify Style Refined",
-    "description": "Fine tuned alignment of song length and progress to look good even with very long songs. Colors adjusted  to give good visibility using light theme on windows 11",
-    "authors": "ariccb",
-    "version": "v0.0.3",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Spotify%20Style%20Refined/Spotify%20Style%20Refined.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Spotify%20Style%20Refined/Spotify%20Style%20Refined.profile.json",
+    "name": "Bubblegum Green",
+    "description": "Modified from tanc's Spotify Style, this profile features bigger play, rewind, and skip buttons! The buttons are Spotify green when hovered, but shuffle and loop become pink once clicked :) If the artist's name is too long, it can be viewed while hovering",
+    "authors": "hauntedandholy",
+    "version": "v0.0.1",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Bubblegum%20Green/Bubblegum%20Green.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Bubblegum%20Green/Bubblegum%20Green.profile.json",
     "assetsUrl": ""
   },
   {
-    "name": "Spotify Mini",
-    "description": "(font requires install) Smaller/more compact version of ariccb's Spotify Style Refined, with spotify native font, icons, and colours. Based on dark theme but shouldn't be too hard to modify for light theme. I included the font in the assets folder so you can install and use it if you'd like :)",
-    "authors": "iZeeh (IZeeLikeEyeZee) ❤",
-    "version": "v0.0.3",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Spotify%20Mini/Spotify%20Mini.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Spotify%20Mini/Spotify%20Mini.profile.json",
-    "assetsUrl": "Profiles/Spotify Mini/Assets"
-  },
-  {
-    "name": "Compact",
-    "description": "The standard Compact profile, perfect for minimal space usage.",
+    "name": "Spotify",
+    "description": "A theme mainly focused on Spotify's Like Button, using Spotify's color scheme to replicate its theme.",
     "authors": "svr333",
-    "version": "v1.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact/Compact.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact/Compact.profile.json",
+    "version": "v1.0.0",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Spotify/Spotify.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Spotify/Spotify.profile.json",
+    "assetsUrl": "Profiles/Spotify/Assets"
+  },
+  {
+    "name": "Compact Spotify (Red)",
+    "description": "Compact version of spotify interface with red color.",
+    "authors": "JR_Hille",
+    "version": "v0.0.2",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact%20Spotify%20(Red)/Compact_Spotify_Red.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact%20Spotify%20(Red)/Compact_Spotify_Red.profile.json",
     "assetsUrl": ""
   },
   {
-    "name": "Essentials",
-    "description": "Small, non-distracting, and only what you need. Click album art to pause/play. Optional mini progress bar. Built for Windows 10 small taskbar from Default.",
+    "name": "Essentials 2",
+    "description": "Essentials but with a like button that is easily swapped with volume, shuffle, etc. Spotify green motif for like button and optional volume/progress bars.",
     "authors": "Zimpery",
     "version": "v1.0.0",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Essentials/Essentials.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Essentials/Essentials.profile.json",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Essentials%202/Essentials%202.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Essentials%202/Essentials%202.profile.json",
     "assetsUrl": ""
   },
   {
-    "name": "Minimal",
-    "description": "A minimal profile with a subtle progressbar for small taskbars",
-    "authors": "Gustavo Pimentel",
+    "name": "Ultracompact",
+    "description": "This will really stay out of your way. Only 30x80 pixels, containing all the essentials.",
+    "authors": "diggoran",
+    "version": "v1.0.0",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Ultracompact/Ultracompact.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Ultracompact/Ultracompact.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "BareBones",
+    "description": "Bare bones minimalist and compact audioband profile",
+    "authors": "juanmar0driguez",
     "version": "v0.0.1",
-    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Minimal/Minimal.png",
-    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Minimal/Minimal.profile.json",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/BareBones/BareBones.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/BareBones/BareBones.profile.json",
     "assetsUrl": ""
   },
   {
@@ -234,12 +99,156 @@
     "assetsUrl": ""
   },
   {
+    "name": "Spotify Style",
+    "description": "An alternative Spotify themed profile similar to the Default profile.",
+    "authors": "tanc",
+    "version": "v0.0.1",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Spotify%20Style/Spotify%20Style.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Spotify%20Style/Spotify%20Style.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "Spotify Style Refined",
+    "description": "Fine tuned alignment of song length and progress to look good even with very long songs. Colors adjusted  to give good visibility using light theme on windows 11",
+    "authors": "ariccb",
+    "version": "v0.0.3",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Spotify%20Style%20Refined/Spotify%20Style%20Refined.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Spotify%20Style%20Refined/Spotify%20Style%20Refined.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "Tall&Narrow",
+    "description": "Designed for Windows 10 with \"Use small taskbar buttons\" setting on, and taskbar resized to accommodate two rows. For the oldschool, informative look for powerusers I suggest trying to turn off \"Combine taskbar buttons\" as well. Skin features a HUGE album art popup!",
+    "authors": "raveren",
+    "version": "v0.0.2",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Tall%26Narrow/Tall%26Narrow.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Tall%26Narrow/Tall%26Narrow.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "SUPER Super Mini Album Art",
+    "description": "Random, Shuffle, Next Previous, Play Pause, Like Unlike Song, Seekbar Progress Bar buttons. VOLUME BAR ON ALBUM ART CLICK! Tested with compact windows 10 taskbar on 1080p resolution.",
+    "authors": "inevitablesgather",
+    "version": "v1.0.0",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/SUPER%20Super%20Mini%20Album%20Art/SUPER%20Super%20Mini%20Album%20Art.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/SUPER%20Super%20Mini%20Album%20Art/SUPER%20Super%20Mini%20Album%20Art.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "3 Line",
+    "description": "Compact 3 row layout to accomodate longer song, artist and album names while preserving horizontal space. All labels auto scroll by default. Also has a large 400x400 art popup to admire beautiful album covers (✿◡‿◡)",
+    "authors": "Minz💕",
+    "version": "v0.0.1",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/3%20Line/3%20Line.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/3%20Line/3%20Line.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "No Controls",
+    "description": "The standard Compact profile, perfect for minimal space usage.",
+    "authors": "svr333",
+    "version": "v0.0.1",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/No%20Controls/No%20Controls.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/No%20Controls/No%20Controls.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "Spotify Mini",
+    "description": "(font requires install) Smaller/more compact version of ariccb's Spotify Style Refined, with spotify native font, icons, and colours. Based on dark theme but shouldn't be too hard to modify for light theme. I included the font in the assets folder so you can install and use it if you'd like :)",
+    "authors": "iZeeh (IZeeLikeEyeZee) ❤",
+    "version": "v0.0.3",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Spotify%20Mini/Spotify%20Mini.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Spotify%20Mini/Spotify%20Mini.profile.json",
+    "assetsUrl": "Profiles/Spotify Mini/Assets"
+  },
+  {
+    "name": "MinimalMod2",
+    "description": "Some changes from MinimalMod version with album art",
+    "authors": "Keeni Ngo",
+    "version": "v0.0.1",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/MinimalMod2/MinimalMod2.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/MinimalMod2/MinimalMod2.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "Super Mini Album Art",
+    "description": "Tested with compact Windows 10 taskbar. Random, Shuffle, Next Previous, Play Pause buttons",
+    "authors": "inevitablesgather",
+    "version": "v1.0.0",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Super%20Mini%20Album%20Art/Super%20Mini%20Album%20Art.jpg",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Super%20Mini%20Album%20Art/Super%20Mini%20Album%20Art.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "Minimal",
+    "description": "A minimal profile with a subtle progressbar for small taskbars",
+    "authors": "Gustavo Pimentel",
+    "version": "v0.0.1",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Minimal/Minimal.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Minimal/Minimal.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "Compact Pause",
+    "description": "If a quick way of pausing is all you need.",
+    "authors": "Minz💕",
+    "version": "v0.0.1",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact%20Pause/Compact%20Pause.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact%20Pause/Compact%20Pause.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "Minimal Rust",
+    "description": "A slightly less minimal profile with control buttons and a rusty accent color.",
+    "authors": "ohitsdylan",
+    "version": "v0.0.1",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Minimal%20Rust/Minimal%20Rust.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Minimal%20Rust/Minimal%20Rust.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "BigButtons",
+    "description": "Just three big buttons. You won't missclick again.",
+    "authors": "VitalityV1nT",
+    "version": "v0.0.1",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/BigButtons/BigButtons.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/BigButtons/BigButtons.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "Essentials",
+    "description": "Small, non-distracting, and only what you need. Click album art to pause/play. Optional mini progress bar. Built for Windows 10 small taskbar from Default.",
+    "authors": "Zimpery",
+    "version": "v1.0.0",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Essentials/Essentials.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Essentials/Essentials.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "Idle",
+    "description": "The standard idle profile, very small and optimally used together with the automatic idle profile switch functionality.",
+    "authors": "svr333",
+    "version": "v1.0.1",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Idle/Idle.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Idle/Idle.profile.json",
+    "assetsUrl": ""
+  },
+  {
     "name": "MinimalMod",
     "description": "Some changes from Minimal version by Gustavo Pimentel",
     "authors": "Keeni Ngo",
     "version": "v0.0.1",
     "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/MinimalMod/MinimalMod.png",
     "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/MinimalMod/MinimalMod.profile.json",
+    "assetsUrl": ""
+  },
+  {
+    "name": "Compact",
+    "description": "The standard Compact profile, perfect for minimal space usage.",
+    "authors": "svr333",
+    "version": "v1.0.1",
+    "imageUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact/Compact.png",
+    "profileUrl": "https://raw.githubusercontent.com/AudioBand/CommunityProfiles/master/Profiles/Compact/Compact.profile.json",
     "assetsUrl": ""
   }
 ]
