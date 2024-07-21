@@ -1,0 +1,4 @@
+{
+    "Description": "Shows you EVERYTHING, themed after Spotify's UI without having to install additional assets. Song titles will generally show in their entirety (the only exceptions in my library are addended with live performances). Most artist names will show fine and so will the album names. If they don't, they will scroll at a readable pace.",
+    "Authors": "Freezing Dart"
+}
