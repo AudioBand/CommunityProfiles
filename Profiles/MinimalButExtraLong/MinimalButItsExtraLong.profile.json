@@ -9,7 +9,7 @@
     "Margin": 4.0
   },
   "AlbumArt": {
-    "PlaceholderPath": "",
+    "PlaceholderPath": "%AssetsFolder%\\MinimalButExtraLong\\MinimalButExtraLong.png",
     "CornerRadius": 2,
     "IsVisible": true,
     "Width": 30.0,
