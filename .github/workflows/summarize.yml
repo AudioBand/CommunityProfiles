@@ -37,7 +37,7 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
     # Save 'ProfileSummary.json' to an artifact
     - name: Save artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: ProfilesSummary.json
         path: ./.github/workflows/ProfileSummarizeAction/ProfilesSummary.json
