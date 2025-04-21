@@ -17,10 +17,10 @@ jobs:
 
     steps:
     # Checkout repository
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
     # Initialize NodeJS environment in workflow folder
     - name: Use Node.js 16
-      uses: actions/setup-node@v2
+      uses: actions/setup-node@v4
       with:
         node-version: 16
         cache: 'npm'
